@@ -1,0 +1,4 @@
+Sitemap: http://www.borbonesa.com/sitemap.xml
+
+User-agent: *
+Disallow: /
